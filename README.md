@@ -10,10 +10,11 @@ I build clean, user-centric, and intuitive iOS apps with a strong focus on perfo
 MAHP app is an iPad app. MAHP app consist of multiple calculators & reports.
 
 Tech Used:
-- 🔐 User Login: OAuth
-- 🏗️ Architecture: MVVM
-- 🗄️ Local Database: SQLite using FMDB
-- 📄 PDF Generation: TTPDF
+- 🔐 OAuth
+- 🎨 UIKit
+- 🗂️ MVVM
+- 🗄️ SQLite using FMDB
+- 📄 TTPDF
 
 > [!NOTE]
 > This is Merck internal app for sales rep only!
@@ -46,6 +47,14 @@ Tech Used:
 
 The Pet Diabetes Tracker App enables the veterinarian and pet owner to better track and manage dog and cat diabetes. It is revolutionizing diabetes management by setting new standards of care and providing leading edge solutions to veterinarians. With proper management and monitoring, a dog or cat with diabetes can lead a healthy, happy and active life.
 
+Tech Used:
+- 🎨 UIKit + Swift UI
+- 🗂️ MVVM
+- 🗄️ Core Data
+- 🔔 Local Notifications
+- 📊 Swift Charts
+- 📄 TTPDF
+
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 45 09 PM" src="https://github.com/user-attachments/assets/4628218e-f2e3-4f8a-8ffb-b200f5771009" />
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 47 17 PM" src="https://github.com/user-attachments/assets/6d8dcb8c-a826-4fa3-acd4-dd71470d2e21" />
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 46 29 PM" src="https://github.com/user-attachments/assets/5f4d62d2-2825-4958-9129-eeee186e895f" />
@@ -53,4 +62,27 @@ The Pet Diabetes Tracker App enables the veterinarian and pet owner to better tr
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 47 40 PM" src="https://github.com/user-attachments/assets/55c1c92e-a685-4796-a347-45b32c0c99fa" />
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 48 02 PM" src="https://github.com/user-attachments/assets/71a285c3-9829-421a-b38e-c25d502d8499" />
 <img width="300" height="582" alt="Screenshot 2025-12-02 at 6 46 52 PM" src="https://github.com/user-attachments/assets/75cbeab1-ae2a-43e0-9ff6-025f9538a40a" />
+
+# $\textsf{\color{#007acc}{mBOS}}$
+
+# $\textsf{\color{#007acc}{Bogo Canada}}$
+
+<a href="https://apps.apple.com/gt/app/bogo-canada/id1590511749?l=en-GB" target="_blank">
+  <u>📲 Available on the App Store</u>
+</a>
+<br>
+
+BOGO Canada was created to offer affordable dining for people who prefer eating out. Traditional delivery apps charge high fees to restaurants, which results in higher prices for customers. To solve this, BOGO Canada partners with restaurants of all sizes to provide Buy One Get One Free deals through app-based redeemable coupons.
+
+Users can subscribe quarterly or yearly to access hundreds of free and discounted meals. They simply visit a restaurant, choose a deal, scan the QR code, and enjoy their savings. BOGO Canada offers a simple, money-saving dining experience and continues to grow beyond Downtown and Mississauga.
+
+<img width="300" height="582" src="https://github.com/user-attachments/assets/ddb1aefa-0d11-4b90-9627-18f77af92bf1" />
+<img width="300" height="582" src="https://github.com/user-attachments/assets/457d1d66-a799-4281-b0f2-fac9e941289e" />
+<img width="300" height="582" src="https://github.com/user-attachments/assets/0e3027ab-cd46-407f-be9a-c07f82632689" />
+<img width="300" height="582" src="https://github.com/user-attachments/assets/6eabb19f-93de-4e3b-819b-177cc2942165" />
+<img width="300" height="582" src="https://github.com/user-attachments/assets/a5c06318-fc0e-4bdd-b740-c5e5a28dc3c0" />
+
+
+
+
 
