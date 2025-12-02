@@ -76,6 +76,15 @@ BOGO Canada was created to offer affordable dining for people who prefer eating 
 
 Users can subscribe quarterly or yearly to access hundreds of free and discounted meals. They simply visit a restaurant, choose a deal, scan the QR code, and enjoy their savings. BOGO Canada offers a simple, money-saving dining experience and continues to grow beyond Downtown and Mississauga.
 
+Tech Used:
+- 🎨 UIKit
+- 🗂️ MVC Architecture
+- 🔔 Push Notifications
+- 🗺️ Google Maps Integration
+- 💳 Stripe Payment Gateway
+- 📷 QR Scanner
+
+
 <img width="300" height="582" src="https://github.com/user-attachments/assets/ddb1aefa-0d11-4b90-9627-18f77af92bf1" />
 <img width="300" height="582" src="https://github.com/user-attachments/assets/457d1d66-a799-4281-b0f2-fac9e941289e" />
 <img width="300" height="582" src="https://github.com/user-attachments/assets/0e3027ab-cd46-407f-be9a-c07f82632689" />
