@@ -7,7 +7,7 @@ I build clean, user-centric, and intuitive iOS apps with a strong focus on perfo
 
 # $\textsf{\color{#007acc}{Merck Animal Health Partnership (MAHP)}}$
 
-MAHP app is an iPad app. MAHP app consist of multiple calculators & reports.
+MAHP is an iPad app. This app allows salespeople to create optimized "suggested orders" for clients by analyzing past sales data and integrating current marketing promotions, thus increasing sales efficiency and maximizing client savings.
 
 Tech Used:
 - 🔐 OAuth
