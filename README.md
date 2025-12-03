@@ -1,4 +1,4 @@
-# 🚀 iOS-Developer-Portfolio
+# iOS-Developer-Portfolio
 
 Hi, I'm Ubaid Javaid, a Sr. iOS Engineer 👨‍💻.
 I build clean, user-centric, and intuitive iOS apps with a strong focus on performance and design. I’m passionate about learning new technologies, improving my craft, and delivering high-quality apps that exceed user expectations ✨.
@@ -55,15 +55,34 @@ Tech Used:
 - 📊 Swift Charts
 - 📄 TTPDF
 
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 45 09 PM" src="https://github.com/user-attachments/assets/4628218e-f2e3-4f8a-8ffb-b200f5771009" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 47 17 PM" src="https://github.com/user-attachments/assets/6d8dcb8c-a826-4fa3-acd4-dd71470d2e21" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 46 29 PM" src="https://github.com/user-attachments/assets/5f4d62d2-2825-4958-9129-eeee186e895f" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 49 53 PM" src="https://github.com/user-attachments/assets/c68e26ab-6621-4fec-98a2-6d94b1028352" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 47 40 PM" src="https://github.com/user-attachments/assets/55c1c92e-a685-4796-a347-45b32c0c99fa" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 48 02 PM" src="https://github.com/user-attachments/assets/71a285c3-9829-421a-b38e-c25d502d8499" />
-<img width="300" height="582" alt="Screenshot 2025-12-02 at 6 46 52 PM" src="https://github.com/user-attachments/assets/75cbeab1-ae2a-43e0-9ff6-025f9538a40a" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 45 09 PM" src="https://github.com/user-attachments/assets/4628218e-f2e3-4f8a-8ffb-b200f5771009" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 47 17 PM" src="https://github.com/user-attachments/assets/6d8dcb8c-a826-4fa3-acd4-dd71470d2e21" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 46 29 PM" src="https://github.com/user-attachments/assets/5f4d62d2-2825-4958-9129-eeee186e895f" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 49 53 PM" src="https://github.com/user-attachments/assets/c68e26ab-6621-4fec-98a2-6d94b1028352" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 47 40 PM" src="https://github.com/user-attachments/assets/55c1c92e-a685-4796-a347-45b32c0c99fa" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 48 02 PM" src="https://github.com/user-attachments/assets/71a285c3-9829-421a-b38e-c25d502d8499" />
+<img width="200" height="400" alt="Screenshot 2025-12-02 at 6 46 52 PM" src="https://github.com/user-attachments/assets/75cbeab1-ae2a-43e0-9ff6-025f9538a40a" />
 
 # $\textsf{\color{#007acc}{mBOS}}$
+
+Developed an enterprise-grade iOS application for Foxtons to centralize and streamline the entire property-sales and lettings workflow. Built to solve real field-operation problems, the app enables staff to manage clients, notes, offers, valuations, holidays, photography, and deal progress directly from their phones. Designed to replace slow, desktop-bound processes with fast, mobile-first tools such as directions, contact saving, AML uploads, and offline photo handling. Created a seamless experience for Negotiators, Managers, Valuers, and Area Directors.
+
+Tech Used:
+
+- 🔐 Face ID
+- 🎨 UIKit
+- 🗂️ MVVM
+- 🗄️ Core Data
+- 🔔 Local Notifications
+- 📊 Swift Charts
+  
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 44 39 PM" src="https://github.com/user-attachments/assets/a32928d2-aaf5-4925-a22c-f29a143b3760" />
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 52 36 PM" src="https://github.com/user-attachments/assets/e1b1b403-9002-4178-b09b-9ce04c626982" />
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 53 37 PM" src="https://github.com/user-attachments/assets/f7c303f2-6854-46d9-841f-d7e7afbb43da" />
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 54 35 PM" src="https://github.com/user-attachments/assets/804ab3cd-3177-4227-aaf0-c7b1c56cfa18" />
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 56 12 PM" src="https://github.com/user-attachments/assets/c2df99fc-cbfc-48a1-9b0a-3152dab01fda" />
+<img width="200" height="400" alt="Screenshot 2025-12-03 at 12 53 08 PM" src="https://github.com/user-attachments/assets/f2f7a9df-d5e2-48fe-a922-0f14c4ec5087" />
+
 
 # $\textsf{\color{#007acc}{Bogo Canada}}$
 
@@ -85,11 +104,11 @@ Tech Used:
 - 📷 QR Scanner
 
 
-<img width="300" height="582" src="https://github.com/user-attachments/assets/ddb1aefa-0d11-4b90-9627-18f77af92bf1" />
-<img width="300" height="582" src="https://github.com/user-attachments/assets/457d1d66-a799-4281-b0f2-fac9e941289e" />
-<img width="300" height="582" src="https://github.com/user-attachments/assets/0e3027ab-cd46-407f-be9a-c07f82632689" />
-<img width="300" height="582" src="https://github.com/user-attachments/assets/6eabb19f-93de-4e3b-819b-177cc2942165" />
-<img width="300" height="582" src="https://github.com/user-attachments/assets/a5c06318-fc0e-4bdd-b740-c5e5a28dc3c0" />
+<img width="200" height="400" src="https://github.com/user-attachments/assets/ddb1aefa-0d11-4b90-9627-18f77af92bf1" />
+<img width="200" height="400" src="https://github.com/user-attachments/assets/457d1d66-a799-4281-b0f2-fac9e941289e" />
+<img width="200" height="400" src="https://github.com/user-attachments/assets/0e3027ab-cd46-407f-be9a-c07f82632689" />
+<img width="200" height="400" src="https://github.com/user-attachments/assets/6eabb19f-93de-4e3b-819b-177cc2942165" />
+<img width="200" height="400" src="https://github.com/user-attachments/assets/a5c06318-fc0e-4bdd-b740-c5e5a28dc3c0" />
 
 
 
