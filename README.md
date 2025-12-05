@@ -7,7 +7,7 @@ I build clean, user-centric, and intuitive iOS apps with a strong focus on perfo
 
 # $\textsf{\color{#007acc}{Merck Animal Health Partnership (MAHP)}}$
 
-MAHP is an iPad app. This app allows salespeople to create optimized "suggested orders" for clients by analyzing past sales data and integrating current marketing promotions, thus increasing sales efficiency and maximizing client savings.
+MAHP is an enterprise iPad application designed for internal Merck sales teams. It enables sales representatives to generate optimized “suggested orders” for clients by analyzing historical sales data and incorporating current marketing promotions. This helps improve sales efficiency while maximizing client savings.
 
 Tech Used:
 - 🔐 OAuth
@@ -15,9 +15,6 @@ Tech Used:
 - 🗂️ MVVM
 - 🗄️ SQLite using FMDB
 - 📄 TTPDF
-
-> [!NOTE]
-> This is Merck internal app for sales rep only!
 
 #### $\textsf{\color{#007acc}{1. NLP Calculator}}$
 <img width="318" height="253" alt="Screenshot 2025-12-02 at 4 24 03 PM" src="https://github.com/user-attachments/assets/f2418e46-ee21-4e3d-8dfa-777046fa539e" /> 
@@ -45,7 +42,7 @@ Tech Used:
 
 # $\textsf{\color{#007acc}{Pet Diabetes Tracker}}$
 
-The Pet Diabetes Tracker App enables the veterinarian and pet owner to better track and manage dog and cat diabetes. It is revolutionizing diabetes management by setting new standards of care and providing leading edge solutions to veterinarians. With proper management and monitoring, a dog or cat with diabetes can lead a healthy, happy and active life.
+The Pet Diabetes Tracker App enables the veterinarian and pet owner to better track and manage dog and cat diabetes. It is revolutionizing diabetes management by setting new standards of care and providing leading edge solutions to veterinarians. With proper management and monitoring, a dog or cat with diabetes can lead a healthy, happy and active life. The app is in its final stages of development and will be released on the App Store soon.
 
 Tech Used:
 - 🎨 UIKit + Swift UI
@@ -65,7 +62,7 @@ Tech Used:
 
 # $\textsf{\color{#007acc}{mBOS}}$
 
-Developed an enterprise-grade iOS application for Foxtons to centralize and streamline the entire property-sales and lettings workflow. Built to solve real field-operation problems, the app enables staff to manage clients, notes, offers, valuations, holidays, photography, and deal progress directly from their phones. Designed to replace slow, desktop-bound processes with fast, mobile-first tools such as directions, contact saving, AML uploads, and offline photo handling. Created a seamless experience for Negotiators, Managers, Valuers, and Area Directors.
+Developed an enterprise-grade, internal-use iOS application for Foxtons to centralize and streamline the entire property-sales and lettings workflow. Built to address real field-operation challenges, the app enables staff to manage clients, notes, offers, valuations, holidays, photography, and deal progress directly from their phones. It replaces slow, desktop-bound processes with fast, mobile-first tools such as navigation, contact saving, AML uploads, and offline photo handling. Designed to deliver a seamless experience for Negotiators, Managers, Valuers, and Area Directors.
 
 Tech Used:
 
